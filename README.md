@@ -10,9 +10,10 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 ## AI areas
 
 
-### Data
+### Data and Modeling
 
-* Data Curation and more
+* Prepare data, explore data, understand patterns
+* Data curation tools
 
 ### Evaluation
 

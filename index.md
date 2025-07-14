@@ -2,122 +2,77 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## ⚡ About me
 
-[Link to another page](./another-page.html).
+Joanna partners across research and product teams to translate AI and data into usable solutions for real-world application.
 
-There should be whitespace between paragraphs.
+Passionate about improving lives through cutting-edge technology, she strives for excellence and is committed to delivering the best product and customer experience.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. Her ability to connect dots, identify new opportunities, and spark ideas makes her a trusted strategist and mentor to many navigating emerging tech and career growth.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
+## AI areas
 
 
-### Definition lists can be used with HTML syntax.
+### Data
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Data Curation and more
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Evaluation
 
-```
-The final element.
-```
+* Evaluate LLM responses
+
+### Inference
+
+* [Prefill in Large Language Models](https://www.linkedin.com/pulse/understanding-prefill-large-language-model-llm-inference-joanna-lee-i4tce/)
+* [Inference Optimization Techniques](https://www.linkedin.com/pulse/why-inference-optimization-mattersmaximizing-ai-efficiency-joanna-lee-hdnmf)
+
+### Hardware Innovation
+
+* [AI Networking - Optical Technologies](https://www.linkedin.com/pulse/ai-networking-focus-joanna-lee-8pvge)
+
+### AI and Ethics
+
+* Approach AI with Ethics
+
+---
+## Highlights at a Glance
+
+- 💬 Built LLM-powered dev assistant
+- 🎮 Designed real-time adaptive AI-based difficulty systems
+- 🧪 Game testing automation to optimize QA testing
+
+---
+## AI Philosophy
+
+### Transformative Impact
+
+I see AI as one of the most powerful forces shaping our future. I'm passionate about contributing to its responsible and meaningful evolution, ensuring that the technology uplifts society.
+
+### Continuous Learning
+
+The pace of innovation is relentless—and I thrive in it. I stay curious, actively expand my knowledge, and prioritize keeping up with breakthroughs so I’m always ready to engage and contribute.
+
+### Adaptability First
+
+In AI, rigid plans can't keep up with reality. I embrace flexibility, iteration, and evolution as core to innovation. For me, the willingness to pivot and experiment is key to driving progress.
+
+### Practical Solutions
+
+I care deeply about building AI systems that are safe, intuitive, and useful. If the job calls for a toaster, I won’t fire up an industrial oven—I prioritize thoughtful solutions that meet real human needs.
+
+---
+
+## Approach
+
+- Identify opportunities and what needs to be done through deep understanding of technology, business, and customer
+- Believe in strong partnerships with cross-functional teams to solve issues and deliver features/content together
+- Design and deliver features/process/content to shape the business by focusing on customer experience and internal workflow improvements
+
+---
+
+## Connect
+
+Let’s talk about building impactful AI products with empathy and scale.
+
+📞 [LinkedIn](https://www.linkedin.com/in/joannaleecy)  • [Cococrumbs - Blog](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7181416432075726849) • [Kaggle](https://www.kaggle.com/joannaleecy) • [GitHub](https://github.com/joannaleecy)

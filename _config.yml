@@ -1,6 +1,11 @@
-title: Minimal theme
+title: Joanna Lee
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+profile-pic: /assets/img/profile-pic.png
+description: Driving AI Innovation and Education
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+linkedin_my_url: https://www.linkedin.com/in/joannaleecy
+blog_my_url: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7181416432075726849
+github_my_url: https://github.com/joannaleecy
+kaggle_my_url: https://www.kaggle.com/joannaleecy

@@ -1,6 +1,6 @@
 ## ⚡ About Me
 
-Joanna partners with research and product teams to translate AI and data into practical solutions for real-world use.
+Joanna partners with research and product teams to build, refine, and translate AI capabilities into user-centric solutions—bridging innovation with practical impact.
 
 Passionate about improving lives through cutting-edge technology, she strives for excellence and is committed to delivering the best product and customer experience.
 

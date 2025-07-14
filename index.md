@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## ⚡ About me
+## ⚡ About Me
 
 Joanna partners across research and product teams to translate AI and data into usable solutions for real-world application.
 
@@ -11,7 +11,7 @@ Passionate about improving lives through cutting-edge technology, she strives fo
 With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. Her ability to connect dots, identify new opportunities, and spark ideas makes her a trusted strategist and mentor to many navigating emerging tech and career growth.
 
 ---
-## AI areas
+## AI Areas
 
 
 ### Data and Modeling

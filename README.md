@@ -34,9 +34,9 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 ---
 ## Highlights at a Glance
 
-- 💬 Built LLM-powered dev assistant
-- 🎮 Designed real-time adaptive AI-based difficulty systems
-- 🧪 Game testing automation to optimize QA testing
+- 💬 Built LLM-powered developer assistant
+- 🎮 Designed real-time adaptive AI-based difficulty system
+- 🧪 Game testing to optimize QA testing
 
 ---
 ## AI Philosophy

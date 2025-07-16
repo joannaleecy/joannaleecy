@@ -77,3 +77,15 @@ I care deeply about building AI systems that are safe, intuitive, and useful. If
 Let’s talk about building impactful AI products with empathy and scale.
 
 📞 [LinkedIn](https://www.linkedin.com/in/joannaleecy)  • [Cococrumbs - Blog](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7181416432075726849) • [Kaggle](https://www.kaggle.com/joannaleecy) • [GitHub](https://github.com/joannaleecy)
+
+---
+
+## The Moment I Found AI
+
+I was set on med school — drawn to the idea of helping people and understanding how the body works. I worked hard, got the grades… but life had other ideas.
+
+Engineering wasn’t where I thought I’d end up, but it opened a door I hadn’t expected. That’s where I discovered control systems — guiding real-world behavior through feedback and adjustment. The logic behind them felt elegant and purposeful. I loved how math could not only explain something — but help shape and refine it.
+
+Then came AI, especially neural networks, and everything shifted. It was like modeling the brain through data. What fascinated me most was how AI could uncover patterns in massive datasets and use them to guide smarter decisions.
+
+The blend of math, optimization, pattern recognition — and that feeling of intellectual harmony — made it all click. It still does.

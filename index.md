@@ -32,9 +32,9 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 
 * [AI Networking - Optical Technologies](https://www.linkedin.com/pulse/ai-networking-focus-joanna-lee-8pvge)
 
-### AI and Ethics
+### Responsible AI
 
-* Approach AI with Ethics
+* Design and create Responsible, Human-Aligned AI Systems
 
 ---
 ## Highlights at a Glance

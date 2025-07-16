@@ -1,10 +1,10 @@
 ## ⚡ About Me
 
-Joanna partners with research and product teams to build, refine, and translate AI capabilities into user-centric solutions—bridging innovation with practical impact.
+Joanna partners with research and product teams to build, refine, and translate AI capabilities into user-centric solutions—bridging innovation with practical impact. 
 
 Passionate about improving lives through cutting-edge technology, she strives for excellence and is committed to delivering the best product and customer experience.
 
-With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. Her ability to connect dots, identify new opportunities, and spark ideas makes her a trusted strategist and mentor to many navigating emerging tech and career growth.
+With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. Her ability to connect dots, identify new opportunities, and spark ideas makes her a trusted strategist in crafting content and programs that drive business growth and customer adoption. She partners closely with product, engineering, and research teams to shape experiences that resonate across markets and audiences. A mentor at heart, she actively supports career development and community building, fostering inclusion, innovation, and long-term impact.
 
 ---
 ## AI Areas

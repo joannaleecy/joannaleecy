@@ -80,7 +80,7 @@ Let’s talk about building impactful AI products with empathy and scale.
 
 I was set on med school — drawn to the idea of helping people and understanding how the body works. I worked hard, got the grades… but life had other ideas.
 
-Engineering wasn’t where I thought I’d end up, but it opened a door I hadn’t expected. That’s where I discovered control systems — guiding real-world behavior through feedback and adjustment. The logic behind them felt elegant and purposeful. I loved how math could not only explain something — but help shape and refine it.
+Electrical Engineering wasn’t where I thought I’d end up, but it opened a door I hadn’t expected. That’s where I discovered control systems — guiding real-world behavior through feedback and adjustment. The logic behind them felt elegant and purposeful. I loved how math could not only explain something — but help shape and refine it.
 
 Then came AI, especially neural networks, and everything shifted. It was like modeling the brain through data. What fascinated me most was how AI could uncover patterns in massive datasets and use them to guide smarter decisions.
 

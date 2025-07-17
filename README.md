@@ -1,6 +1,6 @@
 ## ⚡ About Me
 
-Joanna partners with customers, research, and product teams to build, refine, and translate AI capabilities into user-centric solutions—bridging innovation with practical impact. 
+Joanna partners with customers, research, and product teams to build, refine, and translate AI capabilities into user-centric solutions—bridging innovation with practical impact. She drives adoption by designing learning experiences that empower developers, accelerate understanding, and strengthen engagement. 
 
 Passionate about improving lives through cutting-edge technology, she strives for excellence and is committed to delivering the best product and customer experience.
 

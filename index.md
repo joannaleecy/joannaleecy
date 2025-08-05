@@ -8,7 +8,7 @@ Joanna partners with customers, research, and product teams to build, refine, an
 
 Passionate about improving lives through cutting-edge technology, she strives for excellence and is committed to delivering the best product and customer experience.
 
-With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. Her ability to connect dots, identify new opportunities, and spark ideas makes her a trusted strategist in crafting content and programs that drive business growth and customer adoption. She partners closely with product, engineering, and research teams to shape experiences that resonate across markets and audiences. A mentor at heart, she actively supports career development and community building, fostering inclusion, innovation, and long-term impact.
+With experience across the US, Japan, and Singapore, Joanna brings a globally informed, cross-disciplinary perspective. She spots patterns in complexity and translates big-picture ideas into momentum with infectious enthusiasm. Her work spans products, programs, and content shaped by insight and designed to meet real customer needs—delivering value that drives business growth. Collaborating closely with product, engineering, marketing, and research teams, Joanna shapes experiences that connect across markets and audiences. A mentor at heart, she fosters career development, championing innovation and long-term impact.
 
 ---
 ## AI Areas

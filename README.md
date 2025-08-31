@@ -26,7 +26,7 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 
 ### Hardware Innovation
 
-* [Guide to Processing Units: CPUs, GPUs, DPUs, QPUs, & More](https://www.linkedin.com/pulse/cpus-gpus-dpus-more-guide-processing-units-joanna-lee-dpb1e/)
+* [Guide to Processing Units: CPUs, GPUs, DPUs, QPUs, and More](https://www.linkedin.com/pulse/cpus-gpus-dpus-more-guide-processing-units-joanna-lee-dpb1e/)
 * [AI Networking - Optical Technologies](https://www.linkedin.com/pulse/ai-networking-focus-joanna-lee-8pvge)
 
 ### Responsible AI

@@ -40,6 +40,7 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 - 💬 Built LLM-powered developer assistant
 - 🎮 Designed real-time adaptive AI-based difficulty system
 - 🧪 Game testing to optimize QA testing
+- 💬 Created a neural network model for financial forecasting
 
 ---
 ## AI Philosophy

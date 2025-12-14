@@ -82,12 +82,8 @@ Let’s talk about building impactful AI products with empathy and scale.
 
 ---
 
-## The Moment I Found AI
+## Advancing AI With Purpose
 
-I was set on med school — drawn to the idea of helping people and understanding how the body works. I worked hard, got the grades… but life had other ideas.
+I initially set my sights on medical school, inspired by the idea of helping people and fascinated by how the human body works. I worked hard, earned the grades, and was ready to pursue that path — but life had other plans. Electrical Engineering wasn’t where I expected to land, yet it opened a door I hadn’t imagined. That’s where I discovered control systems: the art of guiding real-world behavior through feedback and adjustment. The elegance and purpose behind that logic captivated me. I loved how mathematics could not only explain phenomena but also shape and refine them. My journey then led me to artificial intelligence and neural networks. To me, they felt like modeling the brain through data. What intrigued me most was how AI could uncover hidden patterns within massive datasets and transform them into smarter decisions.
 
-Electrical Engineering wasn’t where I thought I’d end up, but it opened a door I hadn’t expected. That’s where I discovered control systems — guiding real-world behavior through feedback and adjustment. The logic behind them felt elegant and purposeful. I loved how math could not only explain something — but help shape and refine it.
-
-Then came AI, especially neural networks, and everything shifted. It was like modeling the brain through data. What fascinated me most was how AI could uncover patterns in massive datasets and use them to guide smarter decisions.
-
-The blend of math, optimization, pattern recognition — and that feeling of intellectual harmony — made it all click. It still does.
+Today, I see AI as a powerful force for progress. I believe it can achieve even more for the global good of humanity, and I’m committed to contributing to that future.

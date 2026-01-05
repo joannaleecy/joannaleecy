@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: premium
 ---
 
 ## Welcome to another page

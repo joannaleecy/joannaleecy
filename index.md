@@ -1,5 +1,5 @@
 ---
-layout: premium
+layout: default
 ---
 
 ## About Me

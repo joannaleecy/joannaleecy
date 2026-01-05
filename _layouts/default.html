@@ -1,48 +1,148 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% seo %}
+  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ " /assets/img/logo.png" | relative_url }}">
+</head>
 
-        {% if site.profile-pic %}
-          <img src="{{site.profile-pic | relative_url}}" alt="Profile Picture" />
-        {% endif %}
+<body>
+  <div class="bg-blobs">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p><a href="{{ site.linkedin_my_url }}">LinkedIn</a> • <a href="{{ site.blog_my_url }}">CocoCrumbs</a> •
-         <a href="{{ site.kaggle_my_url }}">Kaggle</a></p>
-        <p></p>
-                
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+  <nav id="navbar">
+    <div class="container nav-content">
+      <a href="{{ " /" | relative_url }}" class="logo">{{ site.title | default: "JOANNA LEE" }}</a>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#ai-areas">AI Areas</a>
+        <a href="#philosophy">Philosophy</a>
+        <a href="#connect">Connect</a>
+      </div>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
+  </nav>
+
+  <header class="hero container reveal">
+    {% if site.profile-pic %}
+    <img src="{{ site.profile-pic | relative_url }}" alt="{{ site.title }}" class="profile-pic">
+    {% endif %}
+    <div class="badge"
+      style="background: rgba(0, 163, 163, 0.1); color: #00A3A3; border-color: rgba(0, 163, 163, 0.2);">
+      AI PRODUCT LEAD</div>
+    <div class="hero-content" style="max-width: 700px; padding: 1.5rem 2rem;">
+      <h1>Building the Future of AI</h1>
+      <p>{{ site.description }}</p>
+    </div>
+    <div style="margin-top: 2rem;">
+      <a href="#about" class="glass card"
+        style="padding: 1rem 2rem; text-decoration: none; color: var(--text-primary); display: inline-block; font-weight: 600;">Explore
+        My
+        Work</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 {{ site.title }}. Built with ❤️ and AI.</p>
+      <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1.5rem;">
+        <a href="{{ site.linkedin_my_url }}" style="color: var(--text-secondary); text-decoration: none;">LinkedIn</a>
+        <a href="{{ site.github_my_url }}" style="color: var(--text-secondary); text-decoration: none;">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Reveal on scroll
+    const reveals = document.querySelectorAll('.reveal');
+    const observerOptions = {
+      threshold: 0.1
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('active');
+        }
+      });
+    }, observerOptions);
+
+    reveals.forEach(reveal => {
+      observer.observe(reveal);
+    });
+
+    // Navbar scroll effect
+    window.addEventListener('scroll', () => {
+      const nav = document.getElementById('navbar');
+      if (nav) {
+        if (window.scrollY > 50) {
+          nav.classList.add('scrolled');
+        } else {
+          nav.classList.remove('scrolled');
+        }
+      }
+    });
+
+    // Wrap sections from markdown content to apply reveal classes and styling
+    document.addEventListener('DOMContentLoaded', () => {
+      const main = document.querySelector('main .container');
+      if (!main) return;
+
+      const h2s = main.querySelectorAll('h2');
+
+      h2s.forEach(h2 => {
+        const section = document.createElement('section');
+        section.className = 'reveal';
+        h2.parentNode.insertBefore(section, h2);
+
+        let next = h2;
+        while (next && next.tagName !== 'HR') {
+          let current = next;
+          next = next.nextElementSibling;
+          section.appendChild(current);
+        }
+
+        if (next && next.tagName === 'HR') {
+          next.remove();
+        }
+
+        observer.observe(section);
+      });
+
+      // Special handling for the grid containers
+      const grids = document.querySelectorAll('.ai-areas-grid, .philosophy-grid');
+      grids.forEach(grid => {
+        grid.classList.add('grid');
+        if (grid.className.includes('ai-areas')) grid.classList.add('grid-3');
+        if (grid.className.includes('philosophy')) grid.classList.add('grid-2');
+
+        const items = grid.children;
+        for (let item of items) {
+          item.classList.add('glass', 'card');
+        }
+      });
+
+      const highlights = document.querySelector('.highlights-section');
+      if (highlights) highlights.classList.add('glass', 'card');
+
+      const approach = document.querySelector('.approach-list');
+      if (approach) approach.classList.add('glass', 'card');
+
+      const story = document.querySelector('.story-section');
+      if (story) story.classList.add('glass', 'card');
+    });
+  </script>
+</body>
+
 </html>

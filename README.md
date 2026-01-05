@@ -9,83 +9,54 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 ---
 ## AI Areas
 
-<div class="ai-areas-grid">
-
-<div class="ai-area-item">
 ### Data and Modeling
 * Prepare data, explore data, understand patterns
 * Data curation tools
 </div>
 
-<div class="ai-area-item">
 ### Evaluation
 * Evaluate LLM responses
-</div>
 
-<div class="ai-area-item">
 ### Inference
 * [Prefill in Large Language Models](https://www.linkedin.com/pulse/understanding-prefill-large-language-model-llm-inference-joanna-lee-i4tce/)
 * [Inference Optimization Techniques](https://www.linkedin.com/pulse/why-inference-optimization-mattersmaximizing-ai-efficiency-joanna-lee-hdnmf)
-</div>
 
-<div class="ai-area-item">
 ### Hardware Innovation
 * [Guide to Processing Units: CPUs, GPUs, DPUs, QPUs, and More](https://www.linkedin.com/pulse/cpus-gpus-dpus-more-guide-processing-units-joanna-lee-dpb1e/)
 * [AI Networking - Optical Technologies](https://www.linkedin.com/pulse/ai-networking-focus-joanna-lee-8pvge)
-</div>
 
-<div class="ai-area-item">
 ### Responsible AI
 * Design and create Responsible, Human-Aligned AI Systems
-</div>
-
-</div>
 
 ---
-<div class="highlights-section">
 ## Highlights at a Glance
 
 - Built LLM-powered developer assistant
 - Designed real-time adaptive AI-based difficulty system
 - Created a neural network model for financial forecasting
-</div>
 
 ---
 ## AI Philosophy
 
-<div class="philosophy-grid">
-
-<div class="philosophy-card">
 ### Transformative Impact
 I see AI as one of the most powerful forces shaping our future. I'm passionate about contributing to its responsible and meaningful evolution, ensuring that the technology uplifts society.
-</div>
 
-<div class="philosophy-card">
 ### Continuous Learning
 The pace of innovation is relentless—and I thrive in it. I stay curious, actively expand my knowledge, and prioritize keeping up with breakthroughs so I’m always ready to engage and contribute.
-</div>
 
-<div class="philosophy-card">
 ### Adaptability First
 In AI, rigid plans can't keep up with reality. I embrace flexibility, iteration, and evolution as core to innovation. For me, the willingness to pivot and experiment is key to driving progress.
-</div>
 
-<div class="philosophy-card">
 ### Practical Solutions
 I care deeply about building AI systems that are safe, intuitive, and useful. If the job calls for a toaster, I won’t fire up an industrial oven—I prioritize thoughtful solutions that meet real human needs.
-</div>
-
-</div>
 
 ---
 
 ## Approach
 
-<div class="approach-list">
 - Identify opportunities and what needs to be done through deep understanding of technology, business, and customer
 - Believe in strong partnerships with cross-functional teams to solve issues and deliver features/content together
 - Design and deliver features/process/content to shape the business by focusing on customer experience and internal workflow improvements
-</div>
 
 ---
 

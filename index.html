@@ -7,8 +7,8 @@
     <title>Joanna Lee | AI Product Lead</title>
     <meta name="description"
         content="Personal website of Joanna Lee, an AI Product Lead specializing in user-centric solutions and practical AI impact.">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="icon" type="image/png" href="/assets/img/logo.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" type="image/png" href="assets/img/logo.png">
 </head>
 
 <body>
@@ -31,13 +31,13 @@
     </nav>
 
     <header class="hero container reveal">
-        <img src="/assets/img/profile-pic.png" alt="Joanna Lee" class="profile-pic">
+        <img src="assets/img/profile-pic.png" alt="Joanna Lee" class="profile-pic">
         <div class="badge"
             style="background: rgba(0, 163, 163, 0.1); color: #00A3A3; border-color: rgba(0, 163, 163, 0.2);">
             AI PRODUCT LEAD</div>
         <div class="hero-content" style="max-width: 700px; padding: 1.5rem 2rem;">
             <h1>Building the Future of AI</h1>
-            <p>AI Innovation for People Responsibly</p>
+            <p>Driving AI Innovation and Education</p>
         </div>
         <div style="margin-top: 2rem;">
             <a href="#about" class="glass card"
@@ -245,16 +245,20 @@
         // Navbar scroll effect
         window.addEventListener('scroll', () => {
             const nav = document.getElementById('navbar');
-            if (window.scrollY > 50) {
-                nav.classList.add('scrolled');
-            } else {
-                nav.classList.remove('scrolled');
+            if (nav) {
+                if (window.scrollY > 50) {
+                    nav.classList.add('scrolled');
+                } else {
+                    nav.classList.remove('scrolled');
+                }
             }
         });
 
         // Wrap sections from markdown content to apply reveal classes and styling
         document.addEventListener('DOMContentLoaded', () => {
             const main = document.querySelector('main .container');
+            if (!main) return;
+
             const h2s = main.querySelectorAll('h2');
 
             // Special handling for the grid containers

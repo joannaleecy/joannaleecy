@@ -71,7 +71,7 @@ The pace of innovation is relentless—and I thrive in it. I stay curious, activ
 
 <div class="philosophy-card">
 ### Adaptability First
-In AI, rigid plans can't keep up with reality. I embrace flexibility, iteration, and evolution as core to innovation. For me, the willingness to pivot and experiment is key to driving progress.
+I embrace flexibility, iteration, and evolution as core to innovation. For me, the willingness to pivot and experiment is key to driving progress.
 </div>
 
 <div class="philosophy-card">
@@ -103,7 +103,7 @@ Let’s talk about building impactful AI products with empathy and scale.
 <div class="story-section">
 ## Advancing AI With Purpose
 
-I initially set my sights on medical school, inspired by the idea of helping people and fascinated by how the human body works. I worked hard, earned the grades, and was ready to pursue that path — but life had other plans. Electrical Engineering wasn’t where I expected to land, yet it opened a door I hadn’t imagined. That’s where I discovered control systems: the art of guiding real-world behavior through feedback and adjustment. The elegance and purpose behind that logic captivated me. I loved how mathematics could not only explain phenomena but also shape and refine them. My journey then led me to artificial intelligence and neural networks. To me, they felt like modeling the brain through data. What intrigued me most was how AI could uncover hidden patterns within massive datasets and transform them into smarter decisions.
+I initially set my sights on medical school, inspired by the idea of helping people and fascinated by how the human body works. I worked hard, earned the grades, and was ready to pursue that path — but life had other plans. Electrical Engineering wasn’t where I expected to land, yet it opened a door I hadn’t imagined. That’s where I discovered control systems: the art of guiding real-world behavior through feedback and adjustment. The elegance and purpose behind that logic captivated me. My journey then led me to artificial intelligence and neural networks. To me, they felt like modeling the brain through data. What intrigued me most was how AI could uncover hidden patterns within massive datasets and transform them into smarter decisions.
 
 Today, I see AI as a powerful force for progress. I believe it can achieve even more for the global good of humanity, and I’m committed to contributing to that future.
 </div>

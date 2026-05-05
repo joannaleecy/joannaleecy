@@ -66,11 +66,3 @@ Let’s talk about building impactful AI products with empathy and scale.
 
 ✧ [LinkedIn](https://www.linkedin.com/in/joannaleecy)  • [Cococrumbs - Blog](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7181416432075726849) • [Kaggle](https://www.kaggle.com/joannaleecy) • [GitHub](https://github.com/github.com/joannaleecy)
 
----
-<div class="story-section">
-## Advancing AI With Purpose
-
-I initially set my sights on medical school, inspired by the idea of helping people and fascinated by how the human body works. I worked hard, earned the grades, and was ready to pursue that path — but life had other plans. Electrical Engineering wasn’t where I expected to land, yet it opened a door I hadn’t imagined. That’s where I discovered control systems: the art of guiding real-world behavior through feedback and adjustment. The elegance and purpose behind that logic captivated me. My journey then led me to artificial intelligence and neural networks. To me, they felt like modeling the brain through data. What intrigued me most was how AI could uncover hidden patterns within massive datasets and transform them into smarter decisions.
-
-Today, I see AI as a powerful force for progress. I believe it can achieve even more for the global good of humanity, and I’m committed to contributing to that future.
-</div>

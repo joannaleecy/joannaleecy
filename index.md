@@ -11,90 +11,58 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 ---
 ## AI Areas
 
-<div class="ai-areas-grid">
-
-<div class="ai-area-item">
 ### Data and Modeling
 * Prepare data, explore data, understand patterns
 * Data curation tools
-</div>
 
-<div class="ai-area-item">
 ### AI Evaluation, Safety, and Governance
 * Combining model testing, risk assessment, and responsible‑AI principles to build systems that are accurate, safe, and aligned with user and organizational values
-</div>
 
-<div class="ai-area-item">
 ### Inference
 * [Prefill in Large Language Models](https://www.linkedin.com/pulse/understanding-prefill-large-language-model-llm-inference-joanna-lee-i4tce/)
 * [Inference Optimization Techniques](https://www.linkedin.com/pulse/why-inference-optimization-mattersmaximizing-ai-efficiency-joanna-lee-hdnmf)
-</div>
 
-<div class="ai-area-item">
 ### Hardware Innovation
 * [Guide to Processing Units: CPUs, GPUs, DPUs, QPUs, and More](https://www.linkedin.com/pulse/cpus-gpus-dpus-more-guide-processing-units-joanna-lee-dpb1e/)
 * [AI Networking - Optical Technologies](https://www.linkedin.com/pulse/ai-networking-focus-joanna-lee-8pvge)
-</div>
 
-<div class="ai-area-item">
 ### Generative AI Media
 * AI‑generated video, music, and images exploring creativity and storytelling
 * [See Projects](https://www.joannaleecy.com/studio)
-</div>
 
-<div class="ai-area-item">
 ### Software & AI‑Enhanced Applications
 * Web apps, creative tools, and platforms, including a CRM portal with agentic workflow and an AI worker that consolidates real-time information and perform analysis
 * [See Projects](https://www.joannaleecy.com/engineering)
-</div>
-
-</div>
 
 ---
-<div class="highlights-section">
 ## Highlights at a Glance
 
 - Built LLM-powered developer assistant
 - Designed real-time adaptive AI-based difficulty system
 - Created a neural network model for financial forecasting
-</div>
 
 ---
 ## AI Philosophy
 
-<div class="philosophy-grid">
-
-<div class="philosophy-card">
 ### Transformative Impact
 I see AI as one of the most powerful forces shaping our future. I'm passionate about contributing to its responsible and meaningful evolution, ensuring that the technology uplifts society.
-</div>
 
-<div class="philosophy-card">
 ### Continuous Learning
 The pace of innovation is relentless—and I thrive in it. I stay curious, actively expand my knowledge, and prioritize keeping up with breakthroughs so I’m always ready to engage and contribute.
-</div>
 
-<div class="philosophy-card">
 ### Adaptability First
 I embrace flexibility, iteration, and evolution as core to innovation. For me, the willingness to pivot and experiment is key to driving progress.
-</div>
 
-<div class="philosophy-card">
 ### Practical Solutions
 I care deeply about building AI systems that are safe, intuitive, and useful. If the job calls for a toaster, I won’t fire up an industrial oven—I prioritize thoughtful solutions that meet real human needs.
-</div>
-
-</div>
 
 ---
 
 ## Approach
 
-<div class="approach-list">
 - Identify opportunities and what needs to be done through deep understanding of technology, business, and customer
 - Believe in strong partnerships with cross-functional teams to solve issues and deliver features/content together
 - Design and deliver features/process/content to shape the business by focusing on customer experience and internal workflow improvements
-</div>
 
 ---
 
@@ -105,10 +73,8 @@ Let’s talk about building impactful AI products with empathy and scale.
 ✧ [LinkedIn](https://www.linkedin.com/in/joannaleecy)  • [Cococrumbs - Blog](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7181416432075726849) • [Kaggle](https://www.kaggle.com/joannaleecy) • [GitHub](https://github.com/github.com/joannaleecy)
 
 ---
-<div class="story-section">
 ## Advancing AI With Purpose
 
 I initially set my sights on medical school, inspired by the idea of helping people and fascinated by how the human body works. I worked hard, earned the grades, and was ready to pursue that path — but life had other plans. Electrical Engineering wasn’t where I expected to land, yet it opened a door I hadn’t imagined. That’s where I discovered control systems: the art of guiding real-world behavior through feedback and adjustment. The elegance and purpose behind that logic captivated me. My journey then led me to artificial intelligence and neural networks. To me, they felt like modeling the brain through data. What intrigued me most was how AI could uncover hidden patterns within massive datasets and transform them into smarter decisions.
 
 Today, I see AI as a powerful force for progress. I believe it can achieve even more for the global good of humanity, and I’m committed to contributing to that future.
-</div>

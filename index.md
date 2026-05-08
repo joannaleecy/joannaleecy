@@ -22,8 +22,8 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 </div>
 
 <div class="ai-area-item">
-### Evaluation
-* Evaluate LLM responses
+### AI Evaluation, Safety, and Governance
+* Combining model testing, risk assessment, and responsible‑AI principles to build systems that are accurate, safe, and aligned with user and organizational values
 </div>
 
 <div class="ai-area-item">
@@ -39,8 +39,15 @@ With experience across the US, Japan, and Singapore, Joanna brings a globally in
 </div>
 
 <div class="ai-area-item">
-### Responsible AI
-* Design and create Responsible, Human-Aligned AI Systems
+### Generative AI Media
+* AI‑generated video, music, and images exploring creativity and storytelling
+* [See Projects](https://www.joannaleecy.com/studio)
+</div>
+
+<div class="ai-area-item">
+### Software & AI‑Enhanced Applications
+* Web apps, creative tools, and platforms, including a CRM portal with agentic workflow and an AI worker that consolidates real-time information and perform analysis
+* [See Projects](https://www.joannaleecy.com/engineering)
 </div>
 
 </div>
